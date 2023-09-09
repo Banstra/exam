@@ -1,0 +1,15 @@
+D:\Солдатова\exam\carcas\TurAgency\bin\Debug\TurAgency.exe.config
+D:\Солдатова\exam\carcas\TurAgency\bin\Debug\TurAgency.exe
+D:\Солдатова\exam\carcas\TurAgency\bin\Debug\TurAgency.pdb
+D:\Солдатова\exam\carcas\TurAgency\obj\Debug\MainWindow.g.cs
+D:\Солдатова\exam\carcas\TurAgency\obj\Debug\App.g.cs
+D:\Солдатова\exam\carcas\TurAgency\obj\Debug\TurAgency_MarkupCompile.cache
+D:\Солдатова\exam\carcas\TurAgency\obj\Debug\TurAgency_MarkupCompile.lref
+D:\Солдатова\exam\carcas\TurAgency\obj\Debug\MainWindow.baml
+D:\Солдатова\exam\carcas\TurAgency\obj\Debug\TurAgency.g.resources
+D:\Солдатова\exam\carcas\TurAgency\obj\Debug\TurAgency.Properties.Resources.resources
+D:\Солдатова\exam\carcas\TurAgency\obj\Debug\TurAgency.csproj.GenerateResource.cache
+D:\Солдатова\exam\carcas\TurAgency\obj\Debug\TurAgency.csproj.CoreCompileInputs.cache
+D:\Солдатова\exam\carcas\TurAgency\obj\Debug\TurAgency.exe
+D:\Солдатова\exam\carcas\TurAgency\obj\Debug\TurAgency.pdb
+D:\Солдатова\exam\carcas\TurAgency\obj\Debug\TurAgency.csproj.AssemblyReference.cache
