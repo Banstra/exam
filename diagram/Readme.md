@@ -16,5 +16,5 @@
 либо блокировка системы, либо формирование заказа
 
 ![image](https://github.com/Banstra/exam/assets/97594123/28c01561-c446-4916-80dc-62ae7093314c)
-![image](https://github.com/Banstra/exam/assets/97594123/140c015b-9c85-4eaf-813b-3d282b90c126)
 
+![image](https://github.com/Banstra/exam/assets/97594123/4b094e78-9958-44e1-98a7-f02c3210ac6d)
