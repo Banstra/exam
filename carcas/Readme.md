@@ -33,3 +33,14 @@
 цвета можно указать через <SolidColorBrush x:key="название" Color="значение"></SolidColorBrush>
  <Grid Background="LightGray" или Background="{StaticResource LightGray}">
  
+[ ] нужно сделать скругленные углы, смена цвета при наведении и картинка
+<Button Name="menu" Background="{StaticResource LightGray}">
+                <StackPanel Orientation="Horizontal">
+                    <Image Source="/rESOURCES/Logo.png" Stretch="UniformToFill" HorizontalAlignment="Left" />
+                    <TextBlock VerticalAlignment="Center" FontSize="30">Dashboard</TextBlock>
+                </StackPanel>
+<Button.Resources>
+                    <Style TargetType="Border">
+                        <Setter Property="CornerRadius" Value="10"></Setter>
+                    </Style>
+                </Button.Resources>
