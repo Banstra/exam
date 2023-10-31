@@ -40,3 +40,6 @@
         7. Вывод данных: название DataGrid, эелементы, равно, БД, getContext(), название таблицы, функция ToList()
      
            DGUsers.ItemsSource = Models.OOORulEntities.getcontext().Datas.ToList();
+  
+#CRUD
+Create update delete  - создание редактирование удаление
