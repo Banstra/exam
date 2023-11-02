@@ -24,3 +24,4 @@ https://docs.google.com/document/d/17dkgRFIxEAdOvFsUuCD5TGeWHCqcC7U-Ha5MJ0EfdtI/
 3. Определить функциональные требования к системе.
 4. Разработать диаграмму вариантов использования системы.
 5. Разработать ER-диаграмму.
+https://docs.google.com/document/d/1b4lXNGuf8vHvWR1yqVEIrTETp-94FYk6lbx6K3Tp0eY/edit?usp=sharing
